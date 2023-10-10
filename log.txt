@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Hello Mitsogo
 F1 Change : This feature added by master
 F2 Change : This feature added by F2
 This line is added by F2
+=======
+Hello Mitsogo Folks
+F1 Change : This feature added by F1
+F2 Change : This feature added by master
+>>>>>>> f1
